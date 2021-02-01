@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("GoodBye World fuck u anand Forever!! fuck u anand \n\n");
-
+    for(int i=0; i<100; i++)
+        printf("%d", i);
     return 0;
 }
